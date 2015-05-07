@@ -1,0 +1,22 @@
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+    background-color: transparent;
+    color: darkgoldenrod;
+}
+
+.navbar-inverse .navbar-brand {
+    color: darkgoldenrod;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 0 white, 2px 2px 0 red;
+}
+
+.navbar-toggle {
+    float: left;
+    margin-left: 15px;
+}
+
+p {
+    text-align: left;
+    font-size: 21px;
+    font-family: sans-serif;
+}
